@@ -1,8 +1,8 @@
 {
   "name": "@ddefo25/ajs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
-  "main": "deis/index.js",
+  "main": "dist/index.js",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
   },
